@@ -12,3 +12,6 @@ Deliver core authentication and file management features.
 
 ## Duration
 1–2 weeks
+
+## Assigned To
+All tasks handled by Ralph (solo developer)
