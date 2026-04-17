@@ -1,12 +1,15 @@
-# Team Roles
+# Team Roles – NCMF File Management System
 
-| Role               | Assigned To | Responsibility                                    |
-|--------------------|-------------|---------------------------------------------------|
-| Frontend Developer | Ralph       |UI/UX design, responsiveness, animations           |
-| Backend Developer  | Ralph1      |API development, database logic                    |
-| DevOps Engineer    | Ralph2      |Deployment, hosting, system configuration          |
-| QA Tester          | Ralph3      |Testing, bug tracking, validation                  |
-| Project Manager    | Ralph4      |Sprint planning, backlog management, coordination  |
+## Role Rotation (Solo Simulation)
 
-## Workflow Approach
-Although executed solo, the development process follows standard Agile practices including backlog planning, sprint execution, and version control via Git.
+| Role                           | Assigned To       | Responsibility                               |
+|--------------------------------|-------------------|----------------------------------------------|
+| Project Manager / Scrum Master | Ralph             | Sprint planning, backlog management          |
+| QA Lead                        |Ralph              | Testing, validation, bug tracking            |
+| DevOps Lead                    | Ralph             | Deployment, hosting, system setup            |
+| Documentation Lead             | Ralph             | Writing and maintaining project docs         |
+
+---
+
+## Notes
+Roles are rotated and simulated by a single developer to follow Agile team practices.
